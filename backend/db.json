@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Sansung S20+",
       "price": 5000
+    },
+    {
+      "name": "Lapís Faber Castel",
+      "price": "5.50",
+      "id": 4
     }
   ]
 }
